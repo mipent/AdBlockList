@@ -150,6 +150,8 @@
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
+||advertising.yahoo.com^
+
 
 ! --- Yandex
 ||extmaps-api.yandex.net^
@@ -158,6 +160,8 @@
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
 ||adfox.yandex.ru^
+||advertising.yandex.ru^
+
 
 ! --- Unity
 ||auction.unityads.unity3d.com^
@@ -207,6 +211,9 @@
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+||business.samsungusa^
+
+
 
 ! --- Apple
 ||iadsdk.apple.com^
