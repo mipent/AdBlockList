@@ -2,9 +2,9 @@
 ! Expires: 1 days
 ! Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
 ! License: CC BY-NC-SA
-! Source: https://github.com/Tmipent/AdBlockList/Sperrliste.txt
+! Source: https://github.com/mipent/AdBlockList/Sperrliste.txt
 ! Type : Stable
-! Entries : 131
+! Entries : 136
 ! Updated On: 23/6/2025
 ! Created by: mpcom
 
