@@ -24,3 +24,4 @@
 @@||fmipmobile.fe2.apple-dns.net^$important
 @@||pentzok.de^$important
 @@||mpzeh.net^$important
+@@||mp-c.network^$important
