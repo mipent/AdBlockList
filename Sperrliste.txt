@@ -215,14 +215,8 @@
 
 
 
-! --- Apple
-||iadsdk.apple.com^
-||metrics.icloud.com^
-||metrics.mzstatic.com^
-||api-adservices.apple.com^
-||books-analytics-events.apple.com^
-||weather-analytics-events.apple.com^
-||notes-analytics-events.apple.com^
+
+||cfpro.ru^
 
 *$3p,domain=d3ward.github.io
 /pagead.js$domain=d3ward.github.io
