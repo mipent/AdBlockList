@@ -218,6 +218,7 @@
 
 ||cfpro.ru^
 ||z6r8.com^
+||xxx.heimaoip.com^
 
 *$3p,domain=d3ward.github.io
 /pagead.js$domain=d3ward.github.io
