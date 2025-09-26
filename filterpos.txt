@@ -25,3 +25,4 @@
 @@||pentzok.de^$important
 @@||mpzeh.net^$important
 @@||mp-c.network^$important
+@@||pcloud.com^$important
