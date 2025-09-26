@@ -225,3 +225,7 @@
 /pagead.js$domain=d3ward.github.io
 @@*$redirect-rule,domain=d3ward.github.io
 d3ward.github.io##.textads
+
+! --- Facebook
+||facebook.com^
+
