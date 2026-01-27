@@ -4,10 +4,10 @@
 @@||icloud.com^$important
 @@||apple.com.edgekey.net^$important
 @@||metrics.mzstatic.com^$important
-@@||api-adservices.apple.com^$important
-@@||books-analytics-events.apple.com^$important
-@@||notes-analytics-events.apple.com^$important
-@@||mzstatic.com^$important
+@@|api-adservices.apple.com^$important
+@@|books-analytics-events.apple.com^$important
+@@|notes-analytics-events.apple.com^$important
+@@|mzstatic.com^$important
 @@||symcb.com^$important
 @@||evintl-ocsp.verisign.com^$important
 @@||evsecure-ocsp.verisign.com^$important
