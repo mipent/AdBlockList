@@ -11,8 +11,8 @@
 @@||symcb.com^$important
 @@||evintl-ocsp.verisign.com^$important
 @@||evsecure-ocsp.verisign.com^$important
-@@||weather-analytics-events.apple.com^$important
-@@||metrics.icloud.com^$important
+@@|weather-analytics-events.apple.com^$important
+@@|metrics.icloud.com^$important
 @@||securemetrics.apple.com^$important
 @@||u255021.your-storagebox.de^$important
 @@||app-measurement.com^$important
@@ -30,3 +30,5 @@
 @@||mpzeh.net^$important
 @@||mp-c.network^$important
 @@||pcloud.com^$important
+@@|appldnld.apple.com^$important
+@@|appleid.apple.com^$important
