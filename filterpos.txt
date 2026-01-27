@@ -7,7 +7,7 @@
 @@|api-adservices.apple.com^$important
 @@|books-analytics-events.apple.com^$important
 @@|notes-analytics-events.apple.com^$important
-#@@|mzstatic.com^$important
+!@@|mzstatic.com^$important
 @@||symcb.com^$important
 @@||evintl-ocsp.verisign.com^$important
 @@||evsecure-ocsp.verisign.com^$important
@@ -48,4 +48,4 @@
 @@|mediaservices.cdn-apple.com^$important
 @@|store.apple.com^$important
 @@|support.apple.com^$important
-##
+
