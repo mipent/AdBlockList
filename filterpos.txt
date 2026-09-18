@@ -18,7 +18,6 @@
 @@||app-measurement.com^$important
 @@||api-adservices.apple.com^$important
 @@||books-analytics-events.apple.com^$important
-@@||notes-analytics-events.apple.com^$important
 @@||advertising.apple.com^$important
 @@||metrics.apple.com^$important
 @@||supportmetrics.apple.com^$important
@@ -49,4 +48,6 @@
 @@|store.apple.com^$important
 @@|support.apple.com^$important
 @@|audible.com^$important
+@@|xp.apple.com^$important
+
 
