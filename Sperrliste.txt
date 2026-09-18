@@ -15,12 +15,14 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
+||mads-eu.amazon.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -105,10 +107,16 @@
 ! --- Facebook
 ||pixel.facebook.com^
 ||an.facebook.com^
+||connect.facebook.net^
+
 
 ! --- Twitter
 ||static.ads-twitter.com^
 ||ads-api.twitter.com^
+||analytics.twitter.com^
+||ads.x.com^
+
+
 
 ! --- LinkedIn
 ||ads.linkedin.com^
@@ -217,11 +225,15 @@
 
 
 ||snowplowanalytics.com^
-
+||app.appsflyer.com^
 ||cfpro.ru^
 ||z6r8.com^
 ||xxx.heimaoip.com^
 ||kiva.org^
+||ad.mail.ru^
+||ngfts.lge.com^
+
+
 
 *$3p,domain=d3ward.github.io
 /pagead.js$domain=d3ward.github.io
