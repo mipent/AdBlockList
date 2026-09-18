@@ -48,6 +48,7 @@
 ||click.googleanalytics.com^
 ||google-analytics.com^
 ||ssl.google-analytics.com^
+||tagmanager.google.com^
 
 ! --- Hotjar
 ||adm.hotjar.com^
