@@ -50,4 +50,6 @@
 @@|audible.com^$important
 @@|xp.apple.com^$important
 
+@@|cdn.aqara.com^$important
+
 
