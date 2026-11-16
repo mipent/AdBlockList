@@ -51,5 +51,8 @@
 @@|xp.apple.com^$important
 @@|terraclastgame.web.app^$important
 @@|cdn.aqara.com^$important
+@@||licensing.emclient.com^$important
+@@||licensemanager.emclient.com^$important
+
 
 
